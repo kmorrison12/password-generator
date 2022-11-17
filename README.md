@@ -1,4 +1,4 @@
-#Password Generator README
+# Password Generator README
 ## User Story
 
 AS an employee with access to sensitive data, I want to randomly generate a password that meets certain criteria so that I can create a strong password that provides greater security
